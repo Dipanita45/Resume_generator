@@ -30,17 +30,6 @@ body {
     max-width: 800px;
 }
 
-h1 {
-    text-align: center;
-    color: #112955;
-    margin-bottom: 30px; 
-    font-weight: bold; 
-}
-
-h2 {
-    color: #1c12d2;
-    margin-bottom: 15px; 
-}
 
 /* Input Fields */
 input, textarea {
